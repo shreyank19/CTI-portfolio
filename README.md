@@ -56,5 +56,5 @@ CompTIA Security+, SC-200, and AZ-500 certifications.
 ---
 
 ## Contact
-Email: S0864074@gmail.com  
+Email: s0864074@gmail.com  
 LinkedIn: [Add your LinkedIn URL here]
